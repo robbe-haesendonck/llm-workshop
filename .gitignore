@@ -1,0 +1,5 @@
+venv/
+ColBERT/
+data/
+index/
+storage/
